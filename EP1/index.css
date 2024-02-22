@@ -1,0 +1,13 @@
+/* #heading{
+    color: red;
+} */
+
+#parent {
+    background-color: red;
+    margin: 20px 20px;
+}
+
+#child, #child2 {
+    background-color: blue;
+    top: 100px;
+}
