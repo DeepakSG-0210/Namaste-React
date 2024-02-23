@@ -1,0 +1,26 @@
+{
+  "name": "ep4",
+  "version": "1.0.0",
+  "description": "Food Ordering App",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DeepakSG-0210/Namaste-React.git"
+  },
+  "keywords": [
+    "React"
+  ],
+  "author": "Deepak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DeepakSG-0210/Namaste-React/issues"
+  },
+  "homepage": "https://github.com/DeepakSG-0210/Namaste-React#readme",
+  "dependencies": {
+    "parcel": "^2.11.0",
+    "react": "^18.2.0"
+  }
+}
